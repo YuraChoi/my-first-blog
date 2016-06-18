@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\Samsung\djangogirls\myvenv"
+set "VIRTUAL_ENV=C:\djangogirls\myvenv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
